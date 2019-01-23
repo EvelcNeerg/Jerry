@@ -1,0 +1,16 @@
+2561,110166,encodedImages/GrayLVBags/Gray-final-result-louis-vuitton-canvas-vachetta-leather-refurbishment-cleaning-metal-polish-8.txt
+3878,108849,encodedImages/GrayLVBags/Gray-11010-49-louis-vuitton-monogram-canvas-keepall-55-duffel-bag-6b981ec43.txt
+2702,110025,encodedImages/GrayLVBags/Gray-aIMG_3357_org_master.txt
+1480,52475,encodedImages/GrayMichaelKorsBags/Gray-michael-kors-bag1.txt
+2406,110321,encodedImages/GrayMichaelKorsBags/Gray-michael-kors-luggage-brown-leather-handle-bag-product-2-410001921-normal.txt
+2028,110699,encodedImages/MichaelKorsBags/michael-kors-luggage-brown-leather-handle-bag-product-2-410001921-normal.txt
+1285,63878,encodedImages/MichaelKorsBags/michael-kors-bag1.txt
+2078,110649,encodedImages/LVBags/11010-49-louis-vuitton-monogram-canvas-keepall-55-duffel-bag-6b981ec43.txt
+2019,110708,encodedImages/LVBags/aIMG_3357_org_master.txt
+2051,110676,encodedImages/LVBags/final-result-louis-vuitton-canvas-vachetta-leather-refurbishment-cleaning-metal-polish-8.txt
+1981,83402,encodedImages/GucciBags/gu-448065dtd1t1000_5.txt
+1763,110964,encodedImages/GucciBags/eb041de1eccefde2d3fb53d8080b04c3.txt
+2615,110112,encodedImages/GucciBags/Gucci-Marmont-Camera-Bag.txt
+2056,110671,encodedImages/GrayGucciBags/Gray-eb041de1eccefde2d3fb53d8080b04c3.txt
+1981,83402,encodedImages/GrayGucciBags/Gray-gu-448065dtd1t1000_5.txt
+2615,110112,encodedImages/GrayGucciBags/Gray-Gucci-Marmont-Camera-Bag.txt
