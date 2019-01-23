@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.6
 """
-This converts images into numbers in base64, allowing for the computer to better identify images.
+This converts images into numbers in base64
 """
 import base64
 import os
