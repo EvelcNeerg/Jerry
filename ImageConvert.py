@@ -92,8 +92,6 @@ class ImageConverter:
                 encoded_img.write(str(encoded_string))
 
     @staticmethod
-    # Question answered by Adam Rosenfield on Stack Overflow for hiding hidden files.
-    # Available: https://stackoverflow.com/questions/7099290/how-to-ignore-hidden-files-using-os-listdir
     def listdir_ig_hidden(path):
         for f in os.listdir(path):
             if not f.startswith('.'):
