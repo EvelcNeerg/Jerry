@@ -92,6 +92,8 @@ class ImageConverter:
                 encoded_img.write(str(encoded_string))
 
     @staticmethod
+    # Generator that returns non-hidden files.
+    # Prevents it from using a .DS_Store as an image.
     def listdir_ig_hidden(path):
         for f in os.listdir(path):
             if not f.startswith('.'):
